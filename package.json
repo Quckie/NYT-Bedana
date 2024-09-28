@@ -1,0 +1,14 @@
+{
+  "name": "appsdeva",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "parcel build --public-url https://quckie.github.io/NYT-Bedana src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "2.12.0"
+  }
+}
